@@ -1,0 +1,11 @@
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.exe
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.deps.json
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.json
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.runtimeconfig.dev.json
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.dll
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\bin\Debug\netcoreapp3.1\HomeWork2.pdb
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.csprojAssemblyReference.cache
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfoInputs.cache
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.AssemblyInfo.cs
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.dll
+D:\Sigma\Projects\Second Lesson\HomeWork2\HomeWork2\obj\Debug\netcoreapp3.1\HomeWork2.pdb
